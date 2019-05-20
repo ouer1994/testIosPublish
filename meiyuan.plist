@@ -24,15 +24,15 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.huapao.my</string>
+                    <string>com.xxx.xxxx</string>
                     <key>bundle-version</key>
-                    <string>1.4.0</string>
+                    <string>1.4.5</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
                     <string>一对一视频聊天</string>
                     <key>title</key>
-                    <string>美缘</string>
+                    <string>美丽</string>
                 </dict>
             </dict>
         </array>
